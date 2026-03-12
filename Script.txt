@@ -1,0 +1,10 @@
+Hello, everyone! Today I am presenting a Python script designed for sales management.
+
+To be 
+This project is a simple automated billing system. The variables client, quantity, and unit_price are the core components of our data structure. The is_vip variable is a boolean state that determines if a customer receives a special discount.
+
+Present Continuous 
+Right now, the system is importing two specific modules: data_entry and calculate_totals. At this moment, the program is capturing user input to define the sale details. While the code runs, it is processing the mathematical operations in the background to ensure accuracy.
+
+Simple Present
+After the data is ready, the function calculate_totals returns the subtotal and the final price. If the customer is a VIP, the script applies a discount automatically. Finally, the program prints a clean sales summary on the console. This routine ensures that every customer receives the correct invoice.
