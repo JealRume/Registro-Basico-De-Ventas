@@ -17,4 +17,4 @@ The system is able to apply a discount when the customer is a VIP.
 
 ## Status
 
-> The project is currently working and it is processing sales data correctly.
+ - The project is currently working and it is processing sales data correctly.
